@@ -69,7 +69,7 @@ Adaptiing Stellar to the full IPFS multihash requires changes to the storage bud
 The incremental change promises usage data to aid future decisions regarding additional IPFS support by Stellar.
 
 ## Backwards Compatibility
-This SEP does not introduce backward incompatibility.
+This SEP does not introduce backward incompatibility. 
 
 ## Test Cases
 This SEP does not affect consensus.
